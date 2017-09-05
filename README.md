@@ -50,7 +50,7 @@ acessar http://localhost:80/
 
 ## Autores
 
-* **Thiago Barso** - *Trabalho Inicial* - [PurpleBooth](https://github.com/thiagobarso)
+* **Thiago Barso** - *Trabalho Inicial* - [GitHub](https://github.com/thiagobarso)
 
 ## License
 
